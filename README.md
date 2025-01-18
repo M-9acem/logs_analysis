@@ -8,3 +8,6 @@ This project processes logs using Apache Spark, streams them to Kafka, sends the
 1. **Start Services**:
    ```bash
    docker-compose up --build
+
+
+Big thanks to logpai https://github.com/logpai
